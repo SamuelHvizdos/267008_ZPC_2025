@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekties on Portfólio SH</title>
+    <link>http://localhost:1313/projekty/</link>
+    <description>Recent content in Projekties on Portfólio SH</description>
+    <generator>Hugo</generator>
+    <language>sk</language>
+    <lastBuildDate>Thu, 25 Sep 2025 14:50:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/projekty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projekt č.2</title>
+      <link>http://localhost:1313/projekty/projekt2/</link>
+      <pubDate>Thu, 25 Sep 2025 14:50:37 +0200</pubDate>
+      <guid>http://localhost:1313/projekty/projekt2/</guid>
+      <description>&lt;h2 id=&#34;mini-projekt-realizovaný-pomocí-vinylové-řezačky-nebo-řezacího-ploteru&#34;&gt;Mini projekt realizovaný pomocí vinylové řezačky nebo řezacího ploteru&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

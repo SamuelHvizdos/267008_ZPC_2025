@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+defaultContentLanguage = "sk"
+enableRobotsTXT = true
+languageCode = 'sk'
+theme = "gokarna"
+title = 'Portfólio SH'
+
+[menu]
+  [[menu.main]]
+    name = "O mne"
+    url = "/o-mne/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projekt č. 2"
+    url = "/projekt2/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projekt č. 3"
+    url = "/projekt3/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projekt č. 4"
+    url = "/projekt4/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Projekt č. 5"
+    url = "/projekt5/"
+    weight = 5            
+
+  [[menu.main]]
+    name = "Semestrálny projekt"
+    url = "/semestralka/"
+    weight = 6    

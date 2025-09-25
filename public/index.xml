@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfólio SH</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Portfólio SH</description>
+    <generator>Hugo</generator>
+    <language>sk</language>
+    <lastBuildDate>Thu, 25 Sep 2025 21:13:40 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Názov</title>
+      <link>https://example.org/semestralka/</link>
+      <pubDate>Thu, 25 Sep 2025 21:13:40 +0200</pubDate>
+      <guid>https://example.org/semestralka/</guid>
+      <description>&lt;h2 id=&#34;koncepcia&#34;&gt;Koncepcia&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Mini projekt realizovaný pomocí mikrokontroléru se vstupními a výstupními zařízeními</title>
+      <link>https://example.org/projekt5/</link>
+      <pubDate>Thu, 25 Sep 2025 16:29:16 +0200</pubDate>
+      <guid>https://example.org/projekt5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mini projekt realizovaný pomocí 3D tisku</title>
+      <link>https://example.org/projekt4/</link>
+      <pubDate>Thu, 25 Sep 2025 16:29:09 +0200</pubDate>
+      <guid>https://example.org/projekt4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mini projekt se zaměřením na 3D skenování</title>
+      <link>https://example.org/projekt3/</link>
+      <pubDate>Thu, 25 Sep 2025 16:28:56 +0200</pubDate>
+      <guid>https://example.org/projekt3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mini projekt realizovaný pomocí vinylové řezačky nebo řezacího ploteru</title>
+      <link>https://example.org/projekt2/</link>
+      <pubDate>Thu, 25 Sep 2025 14:50:37 +0200</pubDate>
+      <guid>https://example.org/projekt2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>V skratke</title>
+      <link>https://example.org/o-mne/</link>
+      <pubDate>Thu, 25 Sep 2025 14:48:27 +0200</pubDate>
+      <guid>https://example.org/o-mne/</guid>
+      <description>&lt;p&gt;Ahoj, volám sa Samuel Hvizdoš a pochádzam z východného Slovenska, konkrétne z Popradu. Študujem program Konstrukční inženýrství na Fakultě strojního inženýrství Vysokého učení technického v Brně.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;záľuby&#34;&gt;Záľuby&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;skauting&lt;/li&gt;&#xA;&lt;li&gt;animátorstvo u saleziánov&lt;/li&gt;&#xA;&lt;li&gt;hudba, hra na hudobné nástroje, spev&lt;/li&gt;&#xA;&lt;li&gt;fotografia a fotografická technika&lt;/li&gt;&#xA;&lt;li&gt;lezenie&lt;/li&gt;&#xA;&lt;li&gt;cyklistika&#xA;a ďalšie&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/7V7A3460.jpg&#34; alt=&#34;Profil&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
