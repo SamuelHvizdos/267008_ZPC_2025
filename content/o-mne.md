@@ -15,4 +15,4 @@ Ahoj, volám sa Samuel Hvizdoš a pochádzam z východného Slovenska, konkrétn
 > - cyklistika
 > a ďalšie...
 
-![Profil](/images/7V7A3460.jpg)
+![Profil2](/images/7V7A3460.jpg)
