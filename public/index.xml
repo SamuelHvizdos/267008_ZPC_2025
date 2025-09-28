@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 25 Sep 2025 21:13:40 +0200</lastBuildDate>
     <atom:link href="https://samuelhvizdos.github.io/267008_ZPC_2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Názov</title>
+      <title>Samovyrovnávacia statívová hlava</title>
       <link>https://samuelhvizdos.github.io/267008_ZPC_2025/semestralka/</link>
       <pubDate>Thu, 25 Sep 2025 21:13:40 +0200</pubDate>
       <guid>https://samuelhvizdos.github.io/267008_ZPC_2025/semestralka/</guid>
-      <description>&lt;h2 id=&#34;koncepcia&#34;&gt;Koncepcia&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;koncepcia&#34;&gt;Koncepcia&lt;/h2&gt;&#xA;&lt;p&gt;V mojom semestrálnom projekte by som chcel vyrobiť statívovú hlavu, ktorá bude schopná sa sama dať do vodorovnej polohy. Pôjde o statívovú hlavu, ktorá bude schopná sa sama dať do &amp;ldquo;vodováhy&amp;rdquo; vo všetkých troch osách aj v situácii, keď sa bude statív nachádzať na nerovnom povrchu, na ktorom ho nie je až také jednoduché správne ustaviť. Táto hlava by mala fungovať tak, že sa najskôr ustaví do vodorovnej polohy. Následne bude možné túto polohu upraviť pomocou nejakého ovládača na dosiahnutie požadovanej kompozície.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mini projekt realizovaný pomocí mikrokontroléru se vstupními a výstupními zařízeními</title>
